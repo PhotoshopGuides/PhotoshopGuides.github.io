@@ -2,35 +2,24 @@
 redirect_from: "/"
 ---
 
-Welcome to the [AzerothCore](http://www.azerothcore.org/) project wiki powered by [Drassil/Git-Wiki](https://github.com/Drassil/git-wiki)
-
-## How to install
-
-- [Traditional setup guide](Installation.md)
-- [Docker setup guide](Install-with-Docker.md)
+Welcome to the Photosshop Settings project wiki powered by [Drassil/Git-Wiki](https://github.com/Drassil/git-wiki)
 
 ## Overview
 
-AzerothCore is a complete Open Source and Modular solution for MMO
+The majority of programs that serves to process photos are highly demanding of your computer resources, and our favorite Photoshop – is the leader as far as “voracity” is concerned. Even if you don't work with huge TIFF files and don't make a complex processing with dozens of layers, nevertheless you can make Photoshop work faster. I have created a list of simple and effective methods that will help to speed up Photoshop performance.
 
-### Solid base
 
-AzerothCore has a strong and solid base, coming from years of development: it is based on MaNGOS, TrinityCore and SunwellCore.
-We're improving this reliability offering a project that follow specific versioning rules, allowing you to develop in the right way. Read More...
+## Detailed Instructions  
 
-### Playable
-Our main goal is to provide a fully working and playable server application. We will focus our stable revisions on final user experiences, instead of following strict development patterns like our predecessors.
-Of course we will work to improve the code in every new versions that are under development stage.
+If you want to know what exxactily you are doing and what each setting in this guide do and want to read the details about each setting head over to Detailed guide section 
 
-### Open Source
-AzerothCore modules are released under GNU AGPL 3.0 and GNU GPL 2.0, both those liceses are totally free and open source. We believe in the free software, we love cooperation.
+[### Detailed Instructions]()#
 
-### Tested, realiable, updated
-SunwellCore, the father of AzerothCore, had been running with thousands of players for years. The goal of AzerothCore is to keep this game application updated, continuing its development.
 
-### Community-driven
-The main strenght of AzerothCore is its community. Users can help us by improving our code base or simply by submitting any bug report. If you want to contribute, we'd love it!
+## TL;DR
 
-### Modular
-We try to make our software as modular as possible, because modular software is much easier to be extended. 
+If you are in a hurry and just want to get things going head over to tl;dr section, set things up and kick start your photoshop adventure.
+
+[### TL;DR](#)
+
 
