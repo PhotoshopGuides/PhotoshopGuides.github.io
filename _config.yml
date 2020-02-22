@@ -1,7 +1,7 @@
 # (string) Title of your wiki
-title: AzerothCore
+title: Photoshop Settings
 # (string) Description of your wiki
-description: Wiki and Documentation of AzerothCore project
+description: Best settings for Adobe Photoshop CC for best performance and productivity.  
 # (boolean) Enable/disable wiki page list in sidebar
 show_wiki_pages: true
 # (integer) Maximum number of wiki page to shown in sidebar
@@ -21,7 +21,7 @@ show_downloads: true
 # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
 git_branch: "master"
 # (string) Url of logo image, it can be full, absolute or relative.
-logo_url: http://www.azerothcore.org/images/logo.png
+logo_url: https://i.imgur.com/NI001u4.png
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
 google_analytics:
 # (string) folder where wiki pages are stored, it's needed for tool buttons
