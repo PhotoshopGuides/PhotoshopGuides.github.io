@@ -1,4 +1,3 @@
-
 Welcome to the Photosshop Settings project wiki powered by [Drassil/Git-Wiki](https://github.com/Drassil/git-wiki)
 
 ## Overview
