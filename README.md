@@ -7,7 +7,7 @@ The majority of programs that serves to process photos are highly demanding of y
 
 ## Detailed Instructions  
 
-If you want to know what exxactily you are doing and what each setting in this guide do and want to read the details about each setting head over to Detailed guide section 
+If you want to know what exactily you are doing and what each setting in this guide do and want to read the details about each setting head over to Detailed guide section 
 
 [### Detailed Instructions](#)
 
