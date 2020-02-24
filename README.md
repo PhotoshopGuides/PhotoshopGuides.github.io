@@ -11,7 +11,7 @@ Welcome to the Photosshop Settings project wiki powered by [Drassil/Git-Wiki](ht
 
 :sparkles: **If you enjoy my guides, please consider [supporting me](https://www.paypal.me/akshathazare) for developing and maintaining it.**
 
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/akshathazare)
+[![Support via PayPal](.github/images/support_paypal.svg)](https://www.paypal.me/akshathazare)
 
 
 ## Overview
