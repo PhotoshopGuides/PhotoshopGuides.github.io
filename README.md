@@ -9,11 +9,9 @@ Welcome to the Photosshop Settings project wiki powered by [Drassil/Git-Wiki](ht
 [![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?style=flat-square&logo=paypal)](https://www.paypal.me/akshathazare)
 [![Buy ME a ko-fi](https://img.shields.io/badge/Buy%20me%20a%20%20-ko--fi-red.svg?style=flat-square&logo=ko-fi)](https://ko-fi.com/messymango)
 
-**If you enjoy this theme, please consider [supporting me](https://www.paypal.me/mmistakes) for developing and maintaining it.**
+:sparkles: **If you enjoy my guides, please consider [supporting me](https://www.paypal.me/akshathazare) for developing and maintaining it.**
 
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/akshathazare)
-
-:sparkles: 
 
 
 ## Overview
