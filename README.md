@@ -1,5 +1,21 @@
 Welcome to the Photosshop Settings project wiki powered by [Drassil/Git-Wiki](https://github.com/Drassil/git-wiki)
 
+# [Photoshop Settings][1]
+
+[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat-square)](https://raw.githubusercontent.com/mmistakes/so-simple-theme/master/LICENSE)
+[![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.6-blue.svg?style=flat-square)](https://jekyllrb.com/)
+[![Ruby gem](https://img.shields.io/gem/v/jekyll-theme-so-simple.svg?style=flat-square)](https://rubygems.org/gems/jekyll-theme-so-simple)
+[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?style=flat-square&logo=paypal)](https://www.paypal.me/akshathazare)
+
+**If you enjoy this theme, please consider [supporting me](https://www.paypal.me/mmistakes) for developing and maintaining it.**
+
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/akshathazare)
+
+:sparkles: 
+
+:blue_book: **[v2 documentation](README-OLD.md)**.
+
+
 ## Overview
 
 The majority of programs that serves to process photos are highly demanding of your computer resources, and our favorite Photoshop – is the leader as far as “voracity” is concerned. Even if you don't work with huge TIFF files and don't make a complex processing with dozens of layers, nevertheless you can make Photoshop work faster. I have created a list of simple and effective methods that will help to speed up Photoshop performance.
