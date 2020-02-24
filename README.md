@@ -6,7 +6,7 @@ Welcome to the Photosshop Settings project wiki powered by [Drassil/Git-Wiki](ht
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.6-blue.svg?style=flat-square)](https://jekyllrb.com/)
 [![Ruby gem](https://img.shields.io/gem/v/jekyll-theme-so-simple.svg?style=flat-square)](https://rubygems.org/gems/jekyll-theme-so-simple)
 [![Required](https://img.shields.io/badge/required-Photoshop%20CC%202020-blue.svg?style=flat-square&logo=photoshop)](https://www.adobe.com/products/photoshop.html)
-[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?style=flat-square&logo=paypal)](https://www.paypal.me/akshathazare)
+[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-.me-green.svg?style=flat-square&logo=paypal)](https://www.paypal.me/akshathazare)
 [![Buy ME a ko-fi](https://img.shields.io/badge/Buy%20me%20a%20%20-ko--fi-red.svg?style=flat-square&logo=ko-fi)](https://ko-fi.com/messymango)
 
 :sparkles: **If you enjoy my guides, please consider [supporting me](https://www.paypal.me/akshathazare) for developing and maintaining it.**
