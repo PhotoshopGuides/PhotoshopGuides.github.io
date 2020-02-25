@@ -31,8 +31,10 @@ If you are in a hurry and just want to get things going head over to tl;dr secti
 
 
 
-[![Support me on ko-fi](.github/images/support_ko-fi.png)](https://ko-fi.com/messymango)
+
 [![Support me on paypal](.github/images/support_paypal.png)](https://www.paypal.me/akshathazare)
+[![Support me on ko-fi](.github/images/support_ko-fi.png)](https://ko-fi.com/messymango)
+
 
 
 
