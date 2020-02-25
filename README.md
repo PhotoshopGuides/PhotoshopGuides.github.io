@@ -30,6 +30,6 @@ If you are in a hurry and just want to get things going head over to tl;dr secti
 [## TL;DR](#)
 
 
-</br>
-<a href="https://www.paypal.me/akshathazare"><img src=".github/images/support_paypal.svg" height="35" width="223" ></a>
-<a href="https://ko-fi.com/messymango"><img src=".github/images/support_ko-fi.svg" height="35" width="223" ></a>
+
+<a href="https://www.paypal.me/akshathazare"><img src="https://github.com/PhotoshopSettings/PhotoshopSettings.github.io/blob/master/.github/images/support_paypal.svg" height="35" width="223" ></a>
+<a href="https://ko-fi.com/messymango"><img src="https://github.com/PhotoshopSettings/PhotoshopSettings.github.io/blob/master/.github/images/support_ko-fi.svg" height="35" width="223" ></a>
