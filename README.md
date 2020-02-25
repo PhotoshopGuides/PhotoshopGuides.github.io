@@ -11,9 +11,6 @@ Welcome to the Photosshop Settings project wiki powered by [Drassil/Git-Wiki](ht
 
 :sparkles: **If you enjoy my guides, please consider [supporting me](https://www.paypal.me/akshathazare) for developing and maintaining it.**
 
-[![Support via PayPal](.github/images/support_paypal.svg|width=100)](https://www.paypal.me/akshathazare)
-
-
 ## Overview
 
 The majority of programs that serves to process photos are highly demanding of your computer resources, and our favorite Photoshop – is the leader as far as “voracity” is concerned. Even if you don't work with huge TIFF files and don't make a complex processing with dozens of layers, nevertheless you can make Photoshop work faster. I have created a list of simple and effective methods that will help to speed up Photoshop performance.
@@ -23,13 +20,16 @@ The majority of programs that serves to process photos are highly demanding of y
 
 If you want to know what exactily you are doing and what each setting in this guide do and want to read the details about each setting head over to Detailed guide section 
 
-[### Detailed Instructions](#)
+[## Detailed Instructions](#)
 
 
 ## TL;DR
 
 If you are in a hurry and just want to get things going head over to tl;dr section, set things up and kick start your photoshop adventure.
 
-[### TL;DR](#)
+[## TL;DR](#)
 
 
+</br>
+<a href="https://www.paypal.me/akshathazare"><img src=".github/images/support_paypal.svg" height="35" width="223" ></a>
+<a href="https://ko-fi.com/messymango"><img src=".github/images/support_ko-fi.svg" height="35" width="223" ></a>
