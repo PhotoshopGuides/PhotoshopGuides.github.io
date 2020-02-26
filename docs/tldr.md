@@ -89,21 +89,18 @@ Set to SSD and non startup drive
 ## Plug-Ins
 
 ##### Filters & Extension Panels -
-
 Uncheck If dont use extensions and plugins that require Internet.
 
 ## Type
 
 ##### Type Options -
-        1. Number of recent fonts to display - 5
+         Number of recent fonts to display - 5
 
 ## 3D - (Personal preference)
-
 If you work with 3D objects you can tweak your performance here.
 
 ## Technology Previews
-1. Nothing to customize left to default. 
-
+Nothing to customize left to default. 
 
 
 ## Miscellaneous -
