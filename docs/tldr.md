@@ -8,18 +8,21 @@
 4. Resize image during place. (Personal preference)
 
 ## Interface -
-Under Appearience section -
-1. Turn off Drop Shadows on Tabs and windows.
+Under Appearience section - 
+1. Turn off Drop Shadows on Tabs and windows. 
+
     . Standard Screen Mode -> Border -> None
     . Full Screen with Menus -> Border -> None
     . Full Screen -> Border -> None
     . Artboard -> Border -> Line
 
-## Workspace -
+## Workspace - 
+
 1. Autocollaps Iconic Panels. (Personal preference)
 2. Enable Narrow Options Bar. (Personal preference)
 
 ## Tools  -
+
 1. Uncheck Show Tootips (Optional)
 2. Uncheck Show rich Tooltips
 3. Uncheck Enable gestures
@@ -30,9 +33,11 @@ Under Appearience section -
 
 ## File Handling -
 ### Under File Saving Options - 
+
 1. Set "Image Previews" To -> Never Save
 
 ### Under File Compatibility Options -
+
 1. Maximize PSD and PSB File Compatibility -> Never OR Always (Personal preference)
 2. Recent File List Contains xxx Files. (Personal preference)
 
@@ -62,23 +67,29 @@ Under Appearience section -
         . Old less powerfull processors -> 132 K or 1032 K
 
 ### Legacy Compositing - 
+
 Only if having problems and Blending modes don’t look right, or the color are weird.
 
 ## Scratch Disks - 
+
 Set to SSD and non startup drive
 
 ## Cursers - 
+
 1. Check Normal Brush Tip
 
 ## Transparency & Gamut -
+
 1. Nothing to customize left to default. 
 
-## Units & Rulers
+## Units & Rulers -
+
 1. Nothing to customize left to default. 
 
 ## Plug-Ins - 
 
-### Filters & Extension Panels - 
+### Filters & Extension Panels -
+
 Uncheck If dont use extensions and plugins that require Internet.
 
 ## Type -
