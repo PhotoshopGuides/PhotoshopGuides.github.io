@@ -1,4 +1,4 @@
-#TL;DR
+# TL;DR
 
 ## General 
 ### Under Options Section
@@ -45,16 +45,19 @@ Under Appearience section -
 
 ### History & Cache - (Personal preference)
 1. History State - (Personal preference)
+
         . Powerfull system configuration and high storage
             If Master of Photoshop and dont use Undo option Much - Less history state ≤ 50
             If Still a biginer and dont use Undo option alot -  More history state ≥ 50-70
         . Weak system configuration and less storage - Less history state ≤ 50
 
 2. Cache Levels -
+
         . If work with small size images( ≤	2k pixels) - Cache Level - 2
         . If work with large size images( ≥	2k pixels) - Cache Level - 4-6
 
 3. Cache Tile Size - 
+
         . Newer more powerfull processors -> 128 K or 1024 K
         . Old less powerfull processors -> 132 K or 1032 K
 
