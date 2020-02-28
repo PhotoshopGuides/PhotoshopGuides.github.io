@@ -42,7 +42,7 @@ use_prose_io: false
 search_engine : "js"
 # Setting google custom search engine for google
 # cse search bar (https://cse.google.it/cse/)
-google_cse_token: 
+google_cse_token: 007478173307850557305:j4ztxqlskyc
 
 #
 # Jekyll configurations
