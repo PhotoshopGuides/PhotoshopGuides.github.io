@@ -34,7 +34,8 @@ If you are in a hurry and just want to get things going head over to tl;dr secti
 
 These are some Photoshop etiquettes should follow. Though these settings does not falls into any catagory but they do help you while using the application.  
 
-<li><a href="{{ '/Miscellaneous' | relative_url }}">Miscellaneous</a>
+<a href="{{ '/Miscellaneous' | relative_url }}">Miscellaneous</a>
+
 
 
 [![Support me on paypal](https://raw.githubusercontent.com/PhotoshopSettings/PhotoshopSettings.github.io/master/.github/images/support_paypal.png)](https://www.paypal.me/akshathazare)
