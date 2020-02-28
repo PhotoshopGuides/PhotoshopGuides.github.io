@@ -32,7 +32,7 @@ wiki_folder: docs
 use_github_wiki: false
 # (boolean) Enable "Edit with Prose.io" button in tools, it's a 3rd party
 # service to edit github markdown pages easily
-use_prose_io: true
+use_prose_io: false
 # Select search_engine component from:
 # - js: it uses a built in javascript component that uses generated js object
 # - js_rss: it uses a built in javascript component that uses generated  sitemap_full.xml to search inside your wiki with lunr library (slow and experimental)
@@ -42,7 +42,7 @@ use_prose_io: true
 search_engine : "js"
 # Setting google custom search engine for google
 # cse search bar (https://cse.google.it/cse/)
-google_cse_token:
+google_cse_token: 
 
 #
 # Jekyll configurations
