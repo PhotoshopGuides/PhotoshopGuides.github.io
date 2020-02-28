@@ -1,4 +1,7 @@
-Here are some rules or you can say tips & etiquettes you should follow. Though these settings does not falls into any specific catagory but they do help to make your experience better while using photoshop.
+## Miscellaneous
+
+Here are some rules or you can say tips & etiquettes you should follow.
+Though these settings does not falls into any specific catagory but they do help to make your experience better while using photoshop.
 
 ### Remove unwanted fonts (Highly recomended)
 A number of fonts installed on your system will affect the loading time, as well as the working performance, of both Windows, and especially of Photoshop. So I recommend you to uninstall unwanted fonts from your computer and get rid of fonts you never use, and never will. This will also improve the loading time of Photoshop.
