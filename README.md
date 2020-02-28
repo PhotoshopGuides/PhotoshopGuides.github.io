@@ -27,7 +27,7 @@ If you want to know what exactily you are doing and what each setting in this gu
 
 If you are in a hurry and just want to get things going head over to tl;dr section, set things up and kick start your photoshop adventure.
 
-**<li><a href="{{ '/tldr' | relative_url }}">TL;DR</a>**
+**<a href="{{ '/tldr' | relative_url }}">TL;DR</a>**
 
 
 ## Miscellaneous
