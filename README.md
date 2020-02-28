@@ -27,14 +27,17 @@ If you want to know what exactily you are doing and what each setting in this gu
 
 If you are in a hurry and just want to get things going head over to tl;dr section, set things up and kick start your photoshop adventure.
 
-[## TL;DR](#)
+**<li><a href="{{ '/tldr' | relative_url }}">TL;DR</a>**
 
 
+## Miscellaneous
+
+These are some Photoshop etiquettes should follow. Though these settings does not falls into any catagory but they do help you while using the application.  
+
+<li><a href="{{ '/Miscellaneous' | relative_url }}">Miscellaneous</a>
 
 
 [![Support me on paypal](https://raw.githubusercontent.com/PhotoshopSettings/PhotoshopSettings.github.io/master/.github/images/support_paypal.png)](https://www.paypal.me/akshathazare)
 [![Support me on ko-fi](https://raw.githubusercontent.com/PhotoshopSettings/PhotoshopSettings.github.io/master/.github/images/support_ko-fi.png)](https://ko-fi.com/messymango)
-
-
 
 
