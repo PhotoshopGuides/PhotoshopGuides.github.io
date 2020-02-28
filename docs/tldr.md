@@ -2,10 +2,10 @@
 
 ## General 
 ##### Under Options Section
-1. Uncheck Auto show the home screen (disable's huge home screen)
-2. Uncheck Use Legacy "New Document" Interface. (disable's huge new document dialog)
-3. Ubcheck "Export Clipboard"
-4. Resize image during place. (Personal preference)
+- [ ] 1. Uncheck Auto show the home screen (disable's huge home screen)
+- [ ] 2. Uncheck Use Legacy "New Document" Interface. (disable's huge new document dialog)
+- [ ] 3. Ubcheck "Export Clipboard"
+- [ ] 4. Resize image during place. (Personal preference)
 
 ## Interface
 ##### Under Appearience section - 
@@ -18,18 +18,18 @@
 
 ## Workspace
 
-1. Autocollaps Iconic Panels. (Personal preference)
-2. Enable Narrow Options Bar. (Personal preference)
+- [x] 1. Autocollaps Iconic Panels. (Personal preference)
+- [x] 2. Enable Narrow Options Bar. (Personal preference)
 
 ## Tools
 
-1. Uncheck Show Tootips (Optional)
-2. Uncheck Show rich Tooltips
-3. Uncheck Enable gestures
-4. Uncheck Enable Flick Paning
-5. Check Show Reference point when using Transform.
-6. Check Zoom With Scroll Wheel (Optional)
-7. Uncheck Animated zoom. (Personal preference)
+- [ ] 1. Uncheck Show Tootips (Optional)
+- [ ] 2. Uncheck Show rich Tooltips
+- [ ] 3. Uncheck Enable gestures
+- [ ] 4. Uncheck Enable Flick Paning
+- [x] 5. Check Show Reference point when using Transform.
+- [x] 6. Check Zoom With Scroll Wheel (Optional)
+- [ ] 7. Uncheck Animated zoom. (Personal preference)
 
 ## File Handling
 ##### Under File Saving Options - 
@@ -76,7 +76,7 @@ Set to SSD and non startup drive
 
 ## Cursers
 
-1. Check Normal Brush Tip
+- [x] 1. Check Normal Brush Tip
 
 ## Transparency & Gamut
 
@@ -89,7 +89,7 @@ Set to SSD and non startup drive
 ## Plug-Ins
 
 ##### Filters & Extension Panels -
-Uncheck If dont use extensions and plugins that require Internet.
+- [ ] Uncheck If dont use extensions and plugins that require Internet.
 
 ## Type
 
@@ -105,9 +105,6 @@ Nothing to customize left to default.
 
 ## Miscellaneous -
 
+**<a href="{{ '/Miscellaneous' | relative_url }}">Miscellaneous</a>**
 
 
-
-
-
-a
