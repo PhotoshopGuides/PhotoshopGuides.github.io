@@ -1,4 +1,4 @@
-# [Photoshop Settings]
+# [Photoshop Guides]
 
 Welcome to the Photosshop Settings wiki powered by [Drassil/Git-Wiki](https://github.com/Drassil/git-wiki)
 
