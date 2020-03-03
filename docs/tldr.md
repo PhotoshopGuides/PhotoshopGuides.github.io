@@ -103,7 +103,7 @@ If you work with 3D objects you can tweak your performance here.
 Nothing to customize left to default. 
 
 
-## Miscellaneous -
+# Miscellaneous
 
 **<a href="{{ '/Miscellaneous' | relative_url }}">Miscellaneous</a>**
 
