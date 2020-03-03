@@ -1,6 +1,6 @@
 # [Photoshop Guides]
 
-Welcome to the Photosshop Settings wiki powered by [Drassil/Git-Wiki](https://github.com/Drassil/git-wiki)
+Welcome to the Photosshop Guides wiki powered by [Drassil/Git-Wiki](https://github.com/Drassil/git-wiki)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat-square)](https://raw.githubusercontent.com/mmistakes/so-simple-theme/master/LICENSE)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.6-blue.svg?style=flat-square)](https://jekyllrb.com/)
@@ -38,7 +38,7 @@ These are some Photoshop etiquettes should follow. Though these settings does no
 
 <br/>
 
-[![Support me on paypal](https://raw.githubusercontent.com/PhotoshopSettings/PhotoshopSettings.github.io/master/.github/images/support_paypal.png)](https://www.paypal.me/akshathazare)
-[![Support me on ko-fi](https://raw.githubusercontent.com/PhotoshopSettings/PhotoshopSettings.github.io/master/.github/images/support_ko-fi.png)](https://ko-fi.com/messymango)
+[![Support me on paypal](https://raw.githubusercontent.com/PhotoshopGuides/PhotoshopGuides.github.io/master/.github/images/support_paypal.png)](https://www.paypal.me/akshathazare)
+[![Support me on ko-fi](https://raw.githubusercontent.com/PhotoshopGuides/PhotoshopGuides.github.io/master/.github/images/support_ko-fi.png)](https://ko-fi.com/messymango)
 
 
