@@ -6,7 +6,7 @@ Though these settings does not falls into any specific catagory but they do help
 ## Remove unwanted fonts (Highly recomended)
 A number of fonts installed on your system will affect the loading time, as well as the working performance, of both Windows, and especially of Photoshop. So I recommend you to uninstall unwanted fonts from your computer and get rid of fonts you never use, and never will. This will also improve the loading time of Photoshop.
 
-## EMERGENCY DUMP – PURGE PHOTOSHOP
+## Emergency dump – Purge Caches
 One good thing about being around for a while (Using Photoshop for 20 years) is that we learned to be super efficient while working because computer resources were very tight. A lot of people newer to the Photoshop games aren’t even aware of this feature. Have you ever worked on a huge file and you can’t run a filter because there isn’t enough free memory. (Not enough free memory error message). You can do an emergency dump and actually complete that task without restarting your pc or photoshop.
 
     Choose Edit -> Purge -> All
@@ -38,7 +38,7 @@ The values below 90-95% indicate that Photoshop is using page file(scratch disk)
 ## Run Photoshop CC in 64-bit mode
 When using launching Photoshop CC, you'll notice two options (depending on version). One is Photoshop CC (64 bit); the other is Photoshop CC. The 32-bit version can only use between 1.7 and 3GB of RAM, while the 64-bit version can use as much RAM as your computer will hold. So depending on your system configuration, choosing this option can help speed things up considerably.
 
-## RESET PHOTOSHOP PREFERENCES TO FIX MOST PROBLEMS
+## Reset Photoshop preferences to fix most problems
 This fix has been around as long as Photoshop, it’s just easier to do now.
 When all else fails, resetting your preferences can fix most issues. Make sure to back up your presets first.
 When you trash your preferences file, Photoshop builds a new preferences file as it launches and resets all the settings and libraries to the factory settings. This resets everything and removes bad presets etc. Most of the time this will fix Photoshop problems. Case in point, some people were freaking out (Some youtubers had a melt-down) with some bugs when they upgraded to CC 2019. Resetting the    Preferences actually fixed the bugs.
