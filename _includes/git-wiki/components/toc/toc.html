@@ -1,15 +1,15 @@
-<details><summary>Contents:</summary>
-<p>
+
   
 {% if site.inc_before_toc %}
 {% include {{ site.inc_before_toc }} %}
 {% endif %}
-
+<details><summary>Contents:</summary>
+<p>
 {% include git-wiki/components/toc/toc-lib.html title="Contents:" minHeaders=1 html=content sanitize=true class="inline_toc" id="git-wiki-toc" h_min=1 h_max=3 ordered=1 %}
-
+</p>
+</details>
 {% if site.inc_after_toc %}
 {% include {{ site.inc_after_toc }} %}
 {% endif %}
 
-</p>
-</details>
+
