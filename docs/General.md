@@ -7,6 +7,12 @@ When you launch Photoshop you will see a welcome screen that takes over entire w
 
     Preferences -> General -> uncheck: Disable the Home Screen 
 
+If unchecking the option does not disable the homescreen then follow this steps
+
+Edit - Preferences - General - Uncheck "auto show homescreen" - Then reset preferences on quit - Ok - prompt - ok - then "cancel" out of here
+Then Ctr+N and create a new canvas. Then close everything down. Reopen Photoshop and hopefully like me, it will finally be gone
+
+
 - [ ] **2. Uncheck Use Legacy "New Document" Interface. (disable's huge new document dialog)**
 
 Have you noticed the New Document window keeps growing? If you want to go back to the old one, here is how.
