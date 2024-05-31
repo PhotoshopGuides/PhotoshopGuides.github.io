@@ -1,6 +1,6 @@
 # [Photoshop Guides]
 
-Welcome to the Photosshop Guides wiki powered by [Drassil/Git-Wiki](https://github.com/Drassil/git-wiki)
+Welcome to the Photoshop Guides wiki powered by [Drassil/Git-Wiki](https://github.com/Drassil/git-wiki)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat-square)](https://raw.githubusercontent.com/mmistakes/so-simple-theme/master/LICENSE)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.6-blue.svg?style=flat-square)](https://jekyllrb.com/)
@@ -13,26 +13,26 @@ Welcome to the Photosshop Guides wiki powered by [Drassil/Git-Wiki](https://gith
 
 ## Overview
 
-The majority of programs that serves to process photos are highly demanding of your computer resources, and our favorite Photoshop – is the leader as far as “voracity” is concerned. Even if you don't work with huge TIFF files and don't make a complex processing with dozens of layers, nevertheless you can make Photoshop work faster. I have created a list of simple and effective methods that will help to speed up Photoshop performance.
+The majority of programs that process photos are highly demanding of your computer resources, and our favorite Photoshop – is the leader as far as “voracity” is concerned. Even if you don't work with huge TIFF files and don't make complex processing with dozens of layers, nevertheless you can make Photoshop work faster. I have created a list of simple and effective methods that will help to speed up Photoshop performance.
 
 
 ## Detailed Instructions  
 
-If you want to know what exactily you are doing and what each setting in this guide do and want to read the details about each setting head over to Detailed guide section 
+If you want to know what exactly you are doing and what each setting in this guide do and want to read the details about each setting head over to the Detailed Guide section 
 
 **<a href="{{ '/detailedguide' | relative_url }}">Detailed Guide</a>**
 
 
 ## TL;DR
 
-If you are in a hurry and just want to get things going head over to tl;dr section, set things up and kick start your photoshop adventure.
+If you are in a hurry and just want to get things going head over to the tl;dr section, set things up, and kick-start your Photoshop adventure.
 
 **<a href="{{ '/tldr' | relative_url }}">TL;DR</a>**
 
 
 ## Miscellaneous
 
-These are some Photoshop etiquettes should follow. Though these settings does not falls into any catagory but they do help you while using the application.  
+These are some Photoshop etiquettes that you should follow. Though these settings do not fall into any category, they help you while using the application.  
 
 **<a href="{{ '/Miscellaneous' | relative_url }}">Miscellaneous</a>**
 
