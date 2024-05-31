@@ -3,7 +3,7 @@
 
 **1. Image Previews**
 
-Image previews are a thumbnail version of your file. They are useful when you’re browsing through folders in finder/explorer, but they also slow you down every time you save. Go ahead and set it to Never Save.
+Image previews are a thumbnail version of your file. They are useful when browsing through folders in Finder/explorer, but they also slow you down every time you save. Go ahead and set it to Never Save.
 
     Preferences -> File Handling -> Set "Image Previews" To -> Never Save
 
