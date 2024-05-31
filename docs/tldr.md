@@ -4,11 +4,11 @@
 ##### Under Options Section
 - [ ] 1. Uncheck Auto show the home screen (disable's huge home screen)
 - [ ] 2. Uncheck Use Legacy "New Document" Interface. (disable's huge new document dialog)
-- [ ] 3. Ubcheck "Export Clipboard"
+- [ ] 3. Uncheck "Export Clipboard"
 - [ ] 4. Resize image during place. (Personal preference)
 
 ## Interface
-##### Under Appearience section - 
+##### Under Appearance section - 
 1. Turn off Drop Shadows on Tabs and windows
 
         . Standard Screen Mode -> Border -> None
@@ -23,13 +23,13 @@
 
 ## Tools
 
-- [ ] 1. Uncheck Show Tootips (Optional)
+- [ ] 1. Uncheck Show Tooltips (Optional)
 - [ ] 2. Uncheck Show rich Tooltips
 - [ ] 3. Uncheck Enable gestures
-- [ ] 4. Uncheck Enable Flick Paning
+- [ ] 4. Uncheck Enable Flick Panning
 - [x] 5. Check Show Reference point when using Transform.
 - [x] 6. Check Zoom With Scroll Wheel (Optional)
-- [ ] 7. Uncheck Animated zoom. (Personal preference)
+- [ ] 7. Uncheck Animated Zoom. (Personal preference)
 
 ## File Handling
 ##### Under File Saving Options - 
@@ -45,15 +45,15 @@
 ##### Memory Usage - Ram - (Personal preference)
 
         . If Lower than 16gb ->  70%
-        . If Lower than 32gb and dont run other programs with PS (Google Chrome) ->  80-90%
-        . If More than 32gb and run other programs with PS (Google Chrome) ->  75-80%
+        . If Lower than 32GB and don't run other programs with PS (Google Chrome) ->  80-90%
+        . If More than 32 GB and run other programs with PS (Google Chrome) ->  75-80%
 
 ##### History & Cache - (Personal preference)
 1. History State - (Personal preference)
 
-        . Powerfull system configuration and high storage
-            If Master of Photoshop and dont use Undo option Much - Less history state ≤ 50
-            If Still a biginer and dont use Undo option alot -  More history state ≥ 50-70
+        . Powerful system configuration and high storage
+            If Master of Photoshop and don't use the Undo option Much - Less history state ≤ 50
+            If Still a beginner and don't use Undo option a lot -  More history states≥ 50-70
         . Weak system configuration and less storage - Less history state ≤ 50
 
 2. Cache Levels -
@@ -63,16 +63,16 @@
 
 3. Cache Tile Size - 
 
-        . Newer more powerfull processors -> 128 K or 1024 K
-        . Old less powerfull processors -> 132 K or 1032 K
+        . Newer more powerful processors -> 128 K or 1024 K
+        . Old less powerful processors -> 132 K or 1032 K
 
 ##### Legacy Compositing - 
 
-Only if having problems and Blending modes don’t look right, or the color are weird.
+Only if having problems and Blending modes don’t look right, or the color is weird.
 
 ## Scratch Disks
 
-Set to SSD and non startup drive
+Set to SSD and non-startup drive
 
 ## Cursers
 
