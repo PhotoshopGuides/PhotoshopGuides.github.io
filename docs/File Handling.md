@@ -54,7 +54,7 @@ When you save a layered document, Photoshop naturally compresses the data to sav
 What is the purpose of the maximize PSD and PSB file compatibility setting? It saves a flattened, composite version of your image alongside the layered data. This makes it easier to open your files in older, legacy versions of Photoshop or third-party applications (like Lightroom or After Effects). However, it adds a massive amount of bloat to your file size. 
 
 The dropdown gives you three choices: *Always, Never, and Ask*.
-* If you work with a team or import PSDs into other video/animation software, set this to **Always**. 
+* If you work with a team, or share your PSD files with other users or import PSDs into other video/animation software, set this to **Always**. 
 * If you are working by yourself and just want smaller file sizes, set it to **Never**. 
 * Avoid **Ask**, as it will bring up an annoying dialog box every single time you save a new file.
 
