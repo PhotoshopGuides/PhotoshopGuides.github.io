@@ -1,14 +1,12 @@
-# TL;DR
+# TL;DR: Performance-Only Optimization Guide
 
-## General 
-##### Under Options Section
-- [ ] 1. Uncheck Auto show the home screen (disable's huge home screen)
-- [ ] 2. Uncheck Use Legacy "New Document" Interface. (disable's huge new document dialog)
-- [ ] 3. Uncheck "Export Clipboard"
-- [ ] 4. Resize image during place. (Personal preference)
+## General
+- [ ] Uncheck "Auto show the home screen"
+- [ ] Uncheck "Use Legacy 'New Document' Interface"
+- [ ] Uncheck "Export Clipboard":
+- [ ] Resize image during place. (Personal preference)
 
 ## Interface
-##### Under Appearance section - 
 1. Turn off Drop Shadows on Tabs and windows
 
         . Standard Screen Mode -> Border -> None
@@ -17,12 +15,12 @@
         . Artboard -> Border -> Line
 
 ## Workspace
+- [x] Check "Auto-Collapse Iconic Panels"
 
-- [x] 1. Autocollaps Iconic Panels. (Personal preference)
-- [x] 2. Enable Narrow Options Bar. (Personal preference)
+## Notifications
+- [x] Check "Enable Quiet Mode"
 
 ## Tools
-
 - [ ] 1. Uncheck Show Tooltips (Optional)
 - [ ] 2. Uncheck Show rich Tooltips
 - [ ] 3. Uncheck Enable gestures
@@ -31,15 +29,16 @@
 - [x] 6. Check Zoom With Scroll Wheel (Optional)
 - [ ] 7. Uncheck Animated Zoom. (Personal preference)
 
+## History
+- [ ] Uncheck "History Log"
+
 ## File Handling
-##### Under File Saving Options - 
+- [ ] Image Previews -> Never Save:
+- [ ] Maximize PSD/PSB Compatibility -> Never
+- [x] Check "Save in Background"
 
-1. Set "Image Previews" To -> Never Save
-
-##### Under File Compatibility Options -
-
-1. Maximize PSD and PSB File Compatibility -> Never OR Always (Personal preference)
-2. Recent File List Contains xxx Files. (Personal preference)
+## Export
+- [x] Quick Export Format -> PNG/JPG
 
 ## Performance
 ##### Memory Usage - Ram - (Personal preference)
@@ -70,41 +69,39 @@
 
 Only if having problems and Blending modes don’t look right, or the color is weird.
 
+## Image Processing
+- [x] **Select Subject -> Device:** Forces the local GPU to process AI rather than the slow cloud.
+- [x] **Selections/Remove Tool/Enhance -> Faster:** Prioritizes processing speed.
+
 ## Scratch Disks
+- [x] **Primary Drive -> SSD/NVMe:** Never use an HDD.
+- [x] **Failsafe:** Check a secondary internal drive to prevent "Scratch Disk Full" crashes.
 
-Set to SSD and non-startup drive
-
-## Cursers
-
-- [x] 1. Check Normal Brush Tip
+## Cursors
+- [x] **Painting Cursors -> Normal Brush Tip:** Simplest rendering for the GPU while painting.
 
 ## Transparency & Gamut
-
-1. Nothing to customize left to default. 
+- [x] **Grid Size -> Medium:** Default is optimal; custom colors won't affect performance.
 
 ## Units & Rulers
+- [x] **Units -> Pixels:** Standard for digital; no significant performance impact.
 
-1. Nothing to customize left to default. 
+## Guides, Grid & Slices
+- [ ] **Uncheck "Show Grid":** Hide when not in use to reduce UI rendering load.
 
-## Plug-Ins
-
-##### Filters & Extension Panels -
-- [ ] Uncheck If dont use extensions and plugins that require Internet.
+## Plugins
+- [ ] **Uncheck "Enable Generator":** Kills the background Node.js process (Major RAM saver).
+- [ ] **Uncheck "Enable Remote Connections":** Closes network ports.
 
 ## Type
-
-##### Type Options -
-         Number of recent fonts to display - 5
-
-## 3D - (Personal preference)
-If you work with 3D objects you can tweak your performance here.
+- [x] **Number of Recent Fonts -> 5:** Reduces font cache memory usage.
+- [ ] **Font Preview Size -> None:** (In Type Menu) Essential for removing Type Tool lag.
 
 ## Technology Previews
-Nothing to customize left to default. 
+- [ ] **Uncheck "Older GPU mode":** Do not use with modern cards.
+- [x] **Check "Precise previews for 16-bit":** Ensures GPU handles 16-bit color correctly.
 
 
 # Miscellaneous
 
 **<a href="{{ '/Miscellaneous' | relative_url }}">Miscellaneous</a>**
-
-
