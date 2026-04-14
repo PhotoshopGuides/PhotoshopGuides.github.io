@@ -30,7 +30,7 @@ If you want to know exactly what you are doing, what each preference setting doe
 
 ## TL;DR: The Best Photoshop Settings for Quick Optimization
 
-If you are in a hurry and just want to get things going, head over to the TL;DR section. This page provides a rapid-fire checklist of the absolute best settings for Adobe Photoshop CC for maximum performance and productivity, so you can set things up and kick-start your Photoshop adventure immediately.
+If you are in a hurry and just want to get things going, head over to the TL;DR section. This page provides a rapid-fire checklist of the absolute best settings for Adobe Photoshop for maximum performance and productivity, so you can set things up and kick-start your Photoshop adventure immediately.
 
 **<a href="{{ '/tldr' | relative_url }}">TL;DR</a>**
 
