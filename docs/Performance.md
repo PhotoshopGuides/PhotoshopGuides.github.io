@@ -1,55 +1,72 @@
-## Performance
+## Photoshop Performance Settings: How to Make Photoshop Run Faster
 
-##### Memory Usage - Ram - (Personal preference)
-Ram doesn’t magically make Photoshop run faster, but it can remove bottlenecks and make it more efficient. If you are running multiple programs or filtering large files, then you will need lots of RAM available, You can buy more, or make better use of what you have.
-Set your RAM to 75-80% to get the most to Photoshop while still leaving enough for your OS and utilities, If you have a large amount such as 64GB, and don’t run other programs with Photoshop, bump it up to 80-90%.
+If you are dealing with Photoshop lagging, freezing, or running very slowly, your hardware settings are likely the culprit. Your system's RAM, CPU, and Graphics Processor dictate how fast Photoshop runs. By optimizing your Photoshop performance settings, you can fix memory leaks, speed up brush strokes, and prevent annoying crashes.
 
-        . If Lower than 16gb ->  70%
-        . If Lower than 32GB and don't run other programs with PS (Google Chrome) ->  80-90%
-        . If More than 32 GB and run other programs with PS (Google Chrome) ->  75-80%
+### Photoshop Memory Usage Settings: How Much RAM for Photoshop?
 
-##### History & Cache - (Personal preference)
+RAM doesn’t magically make Photoshop run faster, but lacking it causes severe bottlenecks. When Photoshop is using too much memory or runs out of RAM, it starts writing temporary data to your hard drive (the Scratch Disk), which is significantly slower. 
 
-**1. History State - (Personal preference)**
+To allocate more RAM to Photoshop, set the slider to **70% to 80%**. This gives maximum resources to the application while leaving enough for your Operating System.
 
-History States allow you to go back in time and undo your mistakes. If you’re terrible at Photoshop, you probably need a lot of these. But if You’re a Photoshop samurai, you can lower the history state count.
-Each operation saved in the history increases the “scratch disk size”. Accordingly, the less data you will be storing in history, the less storage space the scratch disk will take.
+* **The 70% Rule (Recommended):** By default, Photoshop allocates 70%. If you have 16GB of RAM or less, leave it here. 
+* **The 80% Rule:** If you have 32GB+ of RAM and you strictly run Photoshop without heavy background applications (like Google Chrome), you can bump this to 80%.
+* **Warning:** If you are trying to figure out how to make Photoshop use less RAM, do not lower this below 50%, or the program will become unusable. Conversely, never allocate 90% or higher. Starving your OS of RAM will cause your entire computer to freeze.
 
-        . Powerful system configuration and high storage
-            If Master of Photoshop and don't use the Undo option Much - Less history state ≤ 50
-            If Still a beginner and don't use Undo option a lot -  More history states ≥ 50-70
-        . Weak system configuration and less storage - Less history state ≤ 50
+**Navigation:** `Edit > Preferences > Performance > Adjust the "Let Photoshop Use" slider`
 
-**2. Cache Levels -**
+### Fix Photoshop Lagging: Graphics Processor Settings
 
-Photoshop uses a cache to display an image quickly. If you work with small or average files, 1280x1024 pixels, and many layers (50 and more), set cache levels to 2. If you work with large files, 10 MB and more, set cache levels to 4 and more. The higher value of the cache level speeds up the display process.
-Note that the more Cache Levels you have, the faster Photoshop CC will work. Adjust the following setting according to your use. History & cache size allows you to undo the changes for images. I use the following for fast performance.
+If you have a dedicated graphics card, Photoshop can offload heavy visual tasks to it, massively speeding up your workflow.
 
-        . If work with small size images( ≤	2k pixels) - Cache Level - 2
-        . If work with large size images( ≥	2k pixels) - Cache Level - 4-6
+- [x] **Check "Use Graphics Processor":** Ensure this is turned on. It is required for features like smooth panning, animated zoom, and the Select and Mask workspace.
+- [x] **Check "Multithreaded Compositing":** This should be checked by default. It allows Photoshop to use multiple CPU and GPU threads to render layer blends faster.
 
-Three cache presets are available in the Performance preferences. Choose the one that matches your primary use case/purpose of using Photoshop:
+### Photoshop Cache Levels and Cache Tile Size Settings
 
-**Web/UI Design:**  Choose this option if you use Photoshop primarily for web, app, or screen design. This option is appropriate for documents having numerous layers of low-to-medium pixel dimension assets.
+This section dictates how Photoshop handles the history panel and how it loads image data onto your screen. 
 
-**Default/Photos:**  Choose this option if you use Photoshop primarily to retouch or edit moderate-sized images. For example, use this option if you normally edit photos originating from your mobile or digital camera in Photoshop.
+#### A. History States
+History States allow you to go back in time and undo your mistakes. Each operation saved in the history increases your temporary cache. The more data you store in history, the faster you will see the dreaded "Scratch Disk Full" error.
+* **50 States (Default):** Perfect balance for most graphic design and UI workflows.
+* **20-30 States:** Use this if you want to speed up Photoshop and have a very small hard drive.
+* **100+ States:** Use this only if you do heavy digital painting. *Warning: This requires massive amounts of free scratch disk space.*
 
-**Huge Pixel Dimensions:**  Choose this option if you work extensively with heavy documents in Photoshop; for example, panoramas, matte paintings, etc.
+#### B. Cache Levels
+Photoshop uses cache levels to speed up screen redraws when you zoom in and out. 
+* **Cache Level 2:** Best for small file sizes (≤ 2k pixels) with dozens or hundreds of layers (Web/UI Design).
+* **Cache Level 4 (Default):** Best for moderate-sized images and standard photography.
+* **Cache Level 6+:** Best for massive files (10MB+, panoramas, matte paintings) with very few layers.
 
-**3. Cache Tile Size -**
-Responds to the volume of data, that Photoshop processes at a time. Larger volumes speed up the overall manipulations with an image, for example, sharpening. Smaller volumes work faster when you change small areas of the picture, for instance, work with a brush. For new processors, it's recommended to choose 128 K or 1024 K. For old ones (very old) 132 K or 1032 K.
+#### C. Cache Tile Size
+Cache tile size responds to the volume of data that Photoshop stores or processes at a single time. Larger tiles are more efficient for complex math operations (like filters), while smaller tiles are more responsive for frequent screen redraws (like painting).
 
-        . Newer more powerful processors -> 128 K or 1024 K
-        . Old less powerful processors -> 132 K or 1032 K
+The dropdown gives you four specific options: **128K, 132K, 1024K, and 1028K**.
 
-### Legacy Compositing - 
+* **128 K (Recommended for UI/Digital Art):** Choose this for documents with small pixel dimensions but many layers. This size is optimized for faster processing when changing small areas of a picture, such as working with a brush or moving small UI elements.
+* **1024 K (Recommended for Photography/Print):** Choose this for faster processing of documents with large pixel dimensions (like 4K+ photos or large canvases) and fewer layers. Larger tiles speed up global manipulations like sharpening, blurring, or noise reduction.
+* **132 K and 1028 K (Legacy Settings):** These are "non-standard" tile sizes designed for extremely old processor architectures (over a decade old). On modern systems, using these can actually cause a slight performance dip. Stick to **128K** or **1024K** for optimum compatibility with your GPU and CPU.
 
-Only if having problems and Blending modes don’t look right, or the color is weird.
-In the last few updates, some people were complaining that their Blending modes didn’t look right, or the color was weird.
-This can be fixed by using the legacy compositing engine. (Make it work like it did in CC 20018 and earlier).
+**Pro Tip:** If you notice "checkerboarding" (tiles appearing slowly) when you zoom or pan, try switching to a larger tile size (1024K) to see if your Graphics Processor handles the data chunks more efficiently.
 
-        Preferences -> Performance -> check: Legacy Compositing
+**Navigation:** `Edit > Preferences > Performance > Cache Tile Size`
 
+#### D. The Quick Presets (Auto-Optimize)
+If you don't want to manually configure Cache Levels and Tile Sizes, you can use the three built-in preset buttons to automatically adjust them based on your primary workflow:
+* **Web / UI Design:** Automatically sets Cache Levels to 2 and Tile Size to 128K. Perfect for documents with numerous layers of low-to-medium pixel dimensions.
+* **Default / Photos:** Automatically sets Cache Levels to 4 and Tile Size to 1024K. Ideal for retouching or editing moderate-sized images originating from a digital camera.
+* **Huge Pixel Dimensions:** Automatically sets Cache Levels to 6 and Tile Size to 1024K. Use this if you work extensively with heavy documents like panoramas or matte paintings.
 
+**Navigation:** `Edit > Preferences > Performance > Optimize Cache Levels and Tile Size`
 
+---
 
+### Photoshop Performance FAQ & Troubleshooting
+
+**Under which preference option can one set their Photoshop memory usage?**
+You can set your memory allocation by navigating to `Edit > Preferences > Performance` (on Windows) or `Photoshop > Preferences > Performance` (on Mac). Look for the "Memory Usage" section at the top left.
+
+**Why does my Photoshop keep freezing or lagging on a high-end PC?**
+If Photoshop is lagging on a high-end PC, it is usually because Cache Levels and Tile Sizes are misconfigured for your specific workflow, or your Graphics Processor is disabled. Ensure "Use Graphics Processor" is checked in the Performance tab, and try reducing your History States if your scratch disk is nearing capacity.
+
+**What is Legacy Compositing in Photoshop?**
+*(Note: This option is only available in Photoshop CC 2020 and earlier).* If you are running an older version of CC and notice your Blending Modes don’t look right, checking the "Legacy Compositing" box under Performance Preferences forces Photoshop to use the pre-2019 rendering engine, which often fixes visual glitches.
