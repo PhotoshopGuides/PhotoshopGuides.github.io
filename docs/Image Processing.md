@@ -10,11 +10,11 @@ The Image Processing tab controls how Photoshop handles complex AI-driven tasks 
 ##### Under the Image Processing Section
 
 - [x] **1. Select Subject and Remove Background: Device**
-*(Speeds up AI selections using your local hardware)*
+*(AI Cloud processing vs local processing)*
 
 This setting determines which "engine" Photoshop uses to identify subjects in your photos.
-* **Device (Recommended):** Uses your local computer's resources (CPU and GPU). This is significantly faster and doesn't require an internet connection. Since you have a dedicated graphics card (GTX 1650), this is the best choice.
-* **Cloud:** Sends the image to Adobe's servers for processing. This may produce slightly higher-quality results but is much slower and depends entirely on your internet speed.
+* **Device (Recommended):** Uses your local computer's resources (CPU and GPU). This is significantly faster and doesn't require an internet connection.
+* **Cloud:** Sends the image to Adobe's servers for processing. This produce higher-quality selections but it requires and active Adobe Creative Cloud Subscription, is slower and depends entirely on your internet speed.
 
 **Navigation:** `Edit > Preferences > Image Processing > Select Subject and Remove Background`
 
