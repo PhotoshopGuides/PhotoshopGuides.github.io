@@ -9,7 +9,7 @@ Welcome to the Photoshop Guides wiki powered by [Drassil/Git-Wiki](https://githu
 [![Tip Me via PayPal](https://img.shields.io/badge/PayPal-.me-green.svg?style=flat-square&logo=paypal)](https://www.paypal.me/akshathazare)
 [![Buy ME a ko-fi](https://img.shields.io/badge/Buy%20me%20a%20%20-ko--fi-red.svg?style=flat-square&logo=ko-fi)](https://ko-fi.com/messymango)
 
-:sparkles: **If you enjoy my guides, please consider [supporting me](https://www.paypal.me/akshathazare) for developing and maintaining it.**
+:sparkles: **If you enjoy my guides, please consider [supporting me](ko-fi.com/messymango) for developing and maintaining it.**
 
 ## Overview
 
