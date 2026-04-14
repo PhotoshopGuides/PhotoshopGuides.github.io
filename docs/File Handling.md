@@ -17,16 +17,16 @@ Your file handling preferences determine how Photoshop reads, writes, and backs 
 ##### Under the File Saving Options Section
 
 - [ ] **1. Image Previews: Never Save**
-*(Speeds up the saving process)*
+*(Speeds up the saving process and reduces file size)*
 
-Image previews generate a small thumbnail version of your file. They are useful when browsing through visual folders in Mac Finder or Windows Explorer, but generating this thumbnail forces Photoshop to process extra data, and also increase the PSD file size. The dropdown gives you three options: *Never Save*, *Always Save*, or *Ask When Saving*. If you properly name your files and dont need thumbnail previews, change this to **Never Save**. 
+Image previews generate a small thumbnail version of your file. They are useful when browsing through visual folders in Mac Finder or Windows Explorer, but generating this thumbnail forces Photoshop to process extra data and unnecessarily increases your overall PSD file size. The dropdown gives you three options: *Never Save*, *Always Save*, or *Ask When Saving*. If you properly name your files and don't rely on thumbnail previews, change this to **Never Save**. 
 
-**Navigation:** `Edit > Preferences > File Handling > Set "Image Previews" to Never Save`
+**Navigation:** `Edit > Preferences > File Handling > Set "Image Pitch" to Never Save`
 
 - [x] **2. Check "Save in Background"**
 *(Prevents Photoshop from freezing while saving)*
 
-When checked, Photoshop will process saving commands in the background, allowing you to continue editing your document or switch to another tab while a massive file writes to your hard drive. You should keep it enabled.
+When checked, Photoshop will process saving commands in the background. This allows you to continue editing your document or switch to another tab while a massive file writes to your hard drive. You should absolutely keep this enabled.
 
 **Navigation:** `Edit > Preferences > File Handling > Check "Save in Background"`
 
@@ -35,7 +35,7 @@ When checked, Photoshop will process saving commands in the background, allowing
 
 If you are dealing with Photoshop lagging or crashing, this setting is your lifeline. It creates a temporary backup of your file at the specified interval. The dropdown options are *5 Minutes, 10 Minutes, 15 Minutes, 30 Minutes, and 1 Hour*. 
 
-**10 Minutes** is generally the best balance. Setting it to 5 minutes can cause annoying micro-stutters while working on huge files because Photoshop is constantly saving in the background, while 30 minutes or 1 hour risks losing too much progress during a crash.
+**10 Minutes** is generally the best balance. Setting it to 5 minutes can cause a spike in system resource usage while working with huge files because Photoshop is constantly stopping to save in the background. Conversely, 30 minutes or 1 hour risks losing too much progress during a crash.
 
 **Navigation:** `Edit > Preferences > File Handling > Check "Automatically Save..."`
 
@@ -44,7 +44,7 @@ If you are dealing with Photoshop lagging or crashing, this setting is your life
 - [ ] **4. Check "Disable Compression of PSD and PSB Files" (Optional)**
 *(Trades hard drive storage space for faster saving speeds)*
 
-When you save a layered document, Photoshop naturally compresses the data to save storage space on your hard drive. However, compressing large files requires CPU processing power, which takes time. If you have plenty of free terabytes on your hard drive and you want your massive PSB files to save instantly, check this box. If you are low on disk space, leave it unchecked.
+When you save a layered document, Photoshop naturally compresses the data to save storage space on your hard drive. However, compressing large files requires CPU processing power, which takes time. If you have plenty of free terabytes on your hard drive and you want your massive PSB files to save instantly, check this box to turn off compression. Beware: if you enable this option, saving files will be much faster, but the files will take up significantly more space on your disk. If you have limited disk space, leave it unchecked. 
 
 **Navigation:** `Edit > Preferences > File Handling > Check "Disable Compression of PSD and PSB Files"`
 
