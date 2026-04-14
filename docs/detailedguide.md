@@ -4,6 +4,7 @@
         <li><a href="{{ '/General' | relative_url }}">General</a>
         <li><a href="{{ '/Interface' | relative_url }}">Interface</a>
         <li><a href="{{ '/Workspace' | relative_url }}">Workspace</a>
+        <li><a href="{{ '/Notifications' | relative_url }}">Notifications</a>
         <li><a href="{{ '/Tools' | relative_url }}">Tools</a>
         <li><a href="{{ '/File Handling' | relative_url }}">File Handling</a>
         <li><a href="{{ '/Performance' | relative_url }}">Performance</a>
