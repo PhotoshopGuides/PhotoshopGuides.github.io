@@ -1,11 +1,19 @@
-## Interface
-##### Under Appearance section - 
+## Interface Preferences: Optimizing the Workspace
 
-There are three dropdowns here for Standard Screen, Full Screen with Menus, and Full Screen. Set the border to None on all of them. Drop Shadows around your window just add unnecessary visual clutter and probably a small performance dip, too. We don’t need any of that noise.
+##### Under the Appearance Section
 
-1. Turn off Drop Shadows on Tabs and windows
+There are dropdown menus here dictating how your canvas and artboards are displayed within the workspace. Setting these borders to "None" removes the artificial drop shadows around your document windows. 
 
-        . Standard Screen Mode -> Border -> None
-        . Full Screen with Menus -> Border -> None
-        . Full Screen -> Border -> None
-        . Artboard -> Border -> Line
+Drop shadows and 3D borders add unnecessary visual clutter and require additional UI rendering from your system's graphics processor. Disabling them helps make Photoshop run faster, especially on older machines, by removing that minor rendering overhead. We want a clean, fast, and distraction-free workspace.
+
+- [ ] **1. Turn off Drop Shadows on Tabs and Document Windows**
+*(Reduces visual clutter and minor GPU rendering overhead)*
+
+Change the border settings from "Drop Shadow" to "None" (or "Line" for Artboards) to speed up UI drawing and keep the interface looking flat and modern.
+
+**Navigation:** `Edit > Preferences > Interface`
+
+* **Standard Screen Mode:** Border -> None
+* **Full Screen with Menus:** Border -> None
+* **Full Screen:** Border -> None
+* **Artboards:** Border -> Line
