@@ -11,27 +11,32 @@ Welcome to the Photoshop Guides wiki powered by [Drassil/Git-Wiki](https://githu
 
 :sparkles: **If you enjoy my guides, please consider [supporting me](https://ko-fi.com/messymango) for developing and maintaining it.**
 
-## Overview
+## How to Make Photoshop Run Faster: An Overview
 
-Photo processing programs are highly demanding on your computer's resources, and Photoshop is often the most resource-intensive. Even if you don't work with huge TIFF files or make complex edits with dozens of layers, you can still optimize Photoshop to run much faster. I have created a list of simple and effective methods that will help speed up your Photoshop performance and productivity.
+Are you wondering why Photoshop is lagging or running so slowly? Photo processing programs are highly demanding on your computer's resources, and Photoshop is often the most resource-intensive. Even if you don't work with huge TIFF files or make complex edits with dozens of layers, you can still optimize Photoshop to run much faster. I have created a list of simple and effective methods that will help speed up your Photoshop performance, reduce RAM usage, and prevent frustrating crashes.
 
 
-## Detailed Instructions  
+## Detailed Photoshop Performance Settings & Guides
 
-If you want to know exactly what you are doing, what each setting in this guide does, and want to read the details about each configuration, head over to the Detailed Guide section. 
+If you want to know exactly what you are doing, what each preference setting does, and how to permanently fix common bottlenecks, head over to our Detailed Guide. This section covers critical optimizations, including:
+
+* **Photoshop Memory Usage:** How much RAM you should actually allocate to Photoshop.
+* **Cache Levels & Tile Size:** The best cache settings for your specific workflow (web design vs. high-res photography).
+* **Scratch Disk Management:** What to do when your "scratch disks are full" and how to safely clear the Photoshop cache.
+* **Workspace & Tool Optimization:** How to fix missing tooltips, disable annoying rich tooltips, and manage flick panning for a smoother experience.
 
 **<a href="{{ '/detailedguide' | relative_url }}">Detailed Guide</a>**
 
 
-## TL;DR
+## TL;DR: The Best Photoshop Settings for Quick Optimization
 
-If you are in a hurry and just want to get things going, head over to the TL;DR section, set things up, and kick-start your Photoshop adventure.
+If you are in a hurry and just want to get things going, head over to the TL;DR section. This page provides a rapid-fire checklist of the absolute best settings for Adobe Photoshop CC for maximum performance and productivity, so you can set things up and kick-start your Photoshop adventure immediately.
 
 **<a href="{{ '/tldr' | relative_url }}">TL;DR</a>**
 
 
-## Miscellaneous
+## Miscellaneous Photoshop Workflow Habits & Tips
 
-These are some Photoshop best practices and workflow habits that you should follow. Though these settings do not fall into a specific performance category, they significantly help you while using the application.  
+These are some Photoshop best practices, hidden shortcuts, and workflow habits that you should follow. Though these settings do not fall into a specific performance category (like RAM allocation or cache limits), they significantly help you while using the application, speeding up your day-to-day editing process.  
 
 **<a href="{{ '/Miscellaneous' | relative_url }}">Miscellaneous</a>**
